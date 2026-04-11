@@ -26,12 +26,12 @@
 #  CLINIC IDENTITY
 # ─────────────────────────────────────────────────────────────
 
-CLINIC_NAME    = "[CLINIC NAME]"
-CLINIC_PHONE   = "[CLINIC PHONE]"
-EMERGENCY_LINE = "[24/7 EMERGENCY NUMBER]"
-WHATSAPP       = "[WHATSAPP NUMBER]"
-ADDRESS        = "[STREET, CITY, STATE, ZIP]"
-WEBSITE        = "[WEBSITE URL]"
+CLINIC_NAME    = "[BIOCITY VET]"
+CLINIC_PHONE   = "[081 764 XXX]"
+EMERGENCY_LINE = "[1112 XXXX]"
+WHATSAPP       = "[1042 XXXX]"
+ADDRESS        = "[BIRMINGHAM, NEW JERSEY]"
+WEBSITE        = "[BIOCITY.COM]"
 
 # ─────────────────────────────────────────────────────────────
 #  KNOWLEDGE CHUNKS
